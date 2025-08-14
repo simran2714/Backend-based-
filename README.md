@@ -11,6 +11,6 @@ Technologies Used:
 - Body-Parser & CORS (Middleware)
 - File System (JSON Data Storage)
   
-https://app.netlify.com/projects/fanciful-cobbler-51fe55
+https://fanciful-cobbler-51fe55.netlify.app/
 # Name= Simran kumari
 # Enrollment ID = 1401/INFI25/033
